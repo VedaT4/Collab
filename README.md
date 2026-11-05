@@ -1,1 +1,1 @@
-README file by Indrakshi
+README file by Indrakshi and Vedanshi
