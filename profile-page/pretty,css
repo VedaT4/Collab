@@ -1,1 +1,23 @@
+body
+{
+  background-color: #4C0069;
+}
+
+
+h1
+{
+
+  color: #FFFFFF;
+
+  text-align: center;
+
+}
+
+
+p
+{
+   Palatino, URW Palladio L, serif;
+ font-variant: small-caps;
+
+}
 
